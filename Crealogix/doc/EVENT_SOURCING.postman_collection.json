@@ -1,0 +1,168 @@
+{
+	"info": {
+		"_postman_id": "d7ce41a6-f0a6-4ef4-9ad5-913041d53565",
+		"name": "EVENT_SOURCING",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "CREATE_CLIENT_0",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"type": "text",
+						"value": "application/json"
+					},
+					{
+						"key": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"version\": 1,\r\n    \"idStr\": \"client_1\",\r\n    \"enabled\": true,\r\n    \"enabledMultiAccountPay\": true,\r\n    \"accounts\": [\r\n        {\r\n            \"id\":\"5de124b5-9741-4fef-8ace-64e863e5ea77\",\r\n            \"idStr\":\"account_1\",\r\n            \"ccc\":\"ES50-2801-2222-22-222222222\",\r\n            \"importValue\": 1000.00\r\n        }\r\n    ]\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/client/createClient",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"client",
+						"createClient"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CREATE_CLIENT_1",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"version\": 2,\r\n    \"idStr\": \"client_test\",\r\n    \"enabled\": true,\r\n    \"enabledMultiAccountPay\": true,\r\n    \"accounts\": [\r\n        {\r\n            \"id\":\"88f2a7aa-5cbb-11eb-ae93-0242ac130005\",\r\n            \"idStr\":\"account_client_1\",\r\n            \"ccc\":\"1111111\",\r\n            \"importValue\": 1200.00\r\n        },\r\n        {\r\n            \"id\":\"9b140bb8-5cbb-11eb-ae93-0242ac130006\",\r\n            \"idStr\":\"account_client_2\",\r\n            \"ccc\":\"222222\",\r\n            \"importValue\": 1200.00\r\n\r\n        }\r\n    ]\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/client/createClient",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"client",
+						"createClient"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CREATE_TRANSACTION",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nameTransaction\": \"transaction_1\",\r\n    \"clientSource\":\"08e9f12b-1f4c-4dbb-8443-c7c6777373db\",\r\n    \"accountSource\":\"5de124b5-9741-4fef-8ace-64e863e5ea77\",\r\n    \"clientDest\":\"06c0ecd6-afd8-4cdf-9d6a-367129dd43bb\",\r\n    \"accountDest\":\"88f2a7aa-5cbb-11eb-ae93-0242ac130005\",\r\n    \"importTrans\":100.0\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/trans/createTransaction",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"trans",
+						"createTransaction"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET_CLIENT",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/client/getClient/eee1a672-1ca0-4a04-9056-4416fdc1aae4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"client",
+						"getClient",
+						"eee1a672-1ca0-4a04-9056-4416fdc1aae4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CHANGE_STATE_TRANSACTION",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/trans/changeStateTransaction/3bab28db-74c0-4261-8cef-55c92d361dbf/CONFIG",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"trans",
+						"changeStateTransaction",
+						"3bab28db-74c0-4261-8cef-55c92d361dbf",
+						"CONFIG"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

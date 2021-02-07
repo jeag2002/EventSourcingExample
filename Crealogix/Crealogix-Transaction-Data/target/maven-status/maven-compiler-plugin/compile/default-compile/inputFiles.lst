@@ -1,0 +1,8 @@
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Transaction-Data\src\main\java\org\crealogix\transaction\data\aggregates\Client.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Transaction-Data\src\main\java\org\crealogix\transaction\errors\InconsistentStateException.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Transaction-Data\src\main\java\org\crealogix\transaction\data\aggregates\History.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Transaction-Data\src\main\java\org\crealogix\transaction\data\aggregates\Transaction.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Transaction-Data\src\main\java\org\crealogix\transaction\enums\TransactionState.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Transaction-Data\src\main\java\org\crealogix\transaction\data\aggregates\Payment.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Transaction-Data\src\main\java\org\crealogix\transaction\errors\CommandNotValidException.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Transaction-Data\src\main\java\org\crealogix\transaction\data\entities\Account.java

@@ -1,0 +1,10 @@
+org\crealogix\transaction\errors\InconsistentStateException.class
+org\crealogix\transaction\data\aggregates\Transaction.class
+org\crealogix\transaction\data\aggregates\Transaction$Builder.class
+org\crealogix\transaction\data\aggregates\Payment$Builder.class
+org\crealogix\transaction\data\aggregates\Client$Builder.class
+org\crealogix\transaction\data\entities\Account.class
+org\crealogix\transaction\data\aggregates\Client.class
+org\crealogix\transaction\errors\CommandNotValidException.class
+org\crealogix\transaction\data\aggregates\Payment.class
+org\crealogix\transaction\data\entities\Account$Builder.class

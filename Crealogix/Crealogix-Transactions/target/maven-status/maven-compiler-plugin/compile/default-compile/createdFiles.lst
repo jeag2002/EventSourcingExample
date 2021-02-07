@@ -1,0 +1,5 @@
+org\crealogix\transaction\client\events\RegisteredClientEvent.class
+org\crealogix\transaction\App.class
+org\crealogix\transaction\client\actions\RegisterClientCommand.class
+org\crealogix\transaction\client\events\actions\ClientEventConsumer.class
+org\crealogix\transaction\client\ClientCommandContext.class

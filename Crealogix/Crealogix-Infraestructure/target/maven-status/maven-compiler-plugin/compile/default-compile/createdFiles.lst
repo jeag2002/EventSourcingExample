@@ -1,0 +1,14 @@
+org\crealogix\infraestructure\interfaces\events\EventPublisher.class
+org\crealogix\infraestructure\interfaces\dispatcher\sync\SynchronizedCommandDispatcher.class
+org\crealogix\infraestructure\interfaces\dispatcher\CommandDispatcher.class
+org\crealogix\infraestructure\interfaces\events\EventConsumer.class
+org\crealogix\infraestructure\interfaces\repository\inmemory\DummyPlatformTransactionManager.class
+org\crealogix\infraestructure\interfaces\repository\inmemory\InMemoryRepository.class
+org\crealogix\infraestructure\interfaces\entities\model\AggregateRoot.class
+org\crealogix\infraestructure\interfaces\dispatcher\CommandContext.class
+org\crealogix\infraestructure\interfaces\entities\model\Entity.class
+org\crealogix\infraestructure\interfaces\exceptions\CommandException.class
+org\crealogix\infraestructure\interfaces\entities\actions\Command.class
+org\crealogix\infraestructure\interfaces\exceptions\EventException.class
+org\crealogix\infraestructure\interfaces\entities\actions\Event.class
+org\crealogix\infraestructure\interfaces\repository\Repository.class

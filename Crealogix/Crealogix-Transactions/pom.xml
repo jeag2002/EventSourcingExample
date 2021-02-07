@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  
+  <parent>
+    <groupId>Crealogix</groupId>
+    <artifactId>Crealogix</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  
+  <groupId>Crealogix-Transactions</groupId>
+  <artifactId>Crealogix-Transactions</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Crealogix-Transactions</name>
+  <url>http://maven.apache.org</url>
+  
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  
+  
+  <dependencies>
+    
+    <dependency>
+       <groupId>Crealogix-Infraestructure</groupId>
+       <artifactId>Crealogix-Infraestructure</artifactId>
+       <version>${project.version}</version>
+    </dependency>
+    
+    <dependency>
+       <groupId>Crealogix-Transaction-Data</groupId>
+       <artifactId>Crealogix-Transaction-Data</artifactId>
+       <version>${project.version}</version>
+    </dependency>
+    
+    <dependency>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+    </dependency>
+    
+    
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+    
+    <dependency>
+    	<groupId>org.springframework.boot</groupId>
+    	<artifactId>spring-boot-starter-data-jpa</artifactId>	
+	</dependency>
+	
+	<dependency>
+    	<groupId>com.h2database</groupId>
+    	<artifactId>h2</artifactId>
+    	<scope>runtime</scope>
+	</dependency>
+    
+    <dependency>
+    	<groupId>org.springframework.boot</groupId>
+    	<artifactId>spring-boot-starter-json</artifactId>
+    	<version>2.4.0</version>
+	</dependency>
+    
+  </dependencies>
+  
+  
+</project>

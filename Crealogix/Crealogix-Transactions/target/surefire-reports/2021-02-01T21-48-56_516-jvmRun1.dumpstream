@@ -1,0 +1,252 @@
+# Created at 2021-02-01T21:48:58.626
+Unexpected IOException: I,1,sun.desktop,windows
+
+
+# Created at 2021-02-01T21:48:58.627
+Unexpected IOException: I,1,awt.toolkit,sun.awt.windows.WToolkit
+
+
+# Created at 2021-02-01T21:48:58.628
+Unexpected IOException: I,1,java.specification.version,11
+
+
+# Created at 2021-02-01T21:48:58.628
+Unexpected IOException: I,1,sun.cpu.isalist,amd64
+
+
+# Created at 2021-02-01T21:48:58.629
+Unexpected IOException: I,1,sun.jnu.encoding,Cp1252
+
+
+# Created at 2021-02-01T21:48:58.630
+Unexpected IOException: I,1,java.class.path,D:\005Cworkspaces\005CworkEclipseEventSource\005CCrealogix\005CCrealogix-Transactions\005Ctarget\005Ctest-classes;D:\005Cworkspaces\005CworkEclipseEventSource\005CCrealogix\005CCrealogix-Transactions\005Ctarget\005Cclasses;D:\005Cworkspaces\005CworkEclipseEventSource\005CCrealogix\005CCrealogix-Infraestructure\005Ctarget\005CCrealogix-Infraestructure-0.0.1-SNAPSHOT.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter\005C2.3.6.RELEASE\005Cspring-boot-starter-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot\005C2.3.6.RELEASE\005Cspring-boot-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-autoconfigure\005C2.3.6.RELEASE\005Cspring-boot-autoconfigure-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-logging\005C2.3.6.RELEASE\005Cspring-boot-starter-logging-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cch\005Cqos\005Clogback\005Clogback-classic\005C1.2.3\005Clogback-classic-1.2.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cch\005Cqos\005Clogback\005Clogback-core\005C1.2.3\005Clogback-core-1.2.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Capache\005Clogging\005Clog4j\005Clog4j-to-slf4j\005C2.13.3\005Clog4j-to-slf4j-2.13.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Capache\005Clogging\005Clog4j\005Clog4j-api\005C2.13.3\005Clog4j-api-2.13.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cslf4j\005Cjul-to-slf4j\005C1.7.30\005Cjul-to-slf4j-1.7.30.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cjakarta\005Cannotation\005Cjakarta.annotation-api\005C1.3.5\005Cjakarta.annotation-api-1.3.5.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-core\005C5.2.11.RELEASE\005Cspring-core-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-jcl\005C5.2.11.RELEASE\005Cspring-jcl-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cyaml\005Csnakeyaml\005C1.26\005Csnakeyaml-1.26.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-tx\005C5.2.11.RELEASE\005Cspring-tx-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-beans\005C5.2.11.RELEASE\005Cspring-beans-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Capache\005Ccommons\005Ccommons-lang3\005C3.10\005Ccommons-lang3-3.10.jar;D:\005Cworkspaces\005CworkEclipseEventSource\005CCrealogix\005CCrealogix-Transaction-Data\005Ctarget\005CCrealogix-Transaction-Data-0.0.1-SNAPSHOT.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cprojectlombok\005Clombok\005C1.18.16\005Clombok-1.18.16.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cjunit\005Cjunit\005C3.8.1\005Cjunit-3.8.1.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-data-jpa\005C2.3.6.RELEASE\005Cspring-boot-starter-data-jpa-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-aop\005C2.3.6.RELEASE\005Cspring-boot-starter-aop-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-aop\005C5.2.11.RELEASE\005Cspring-aop-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Caspectj\005Caspectjweaver\005C1.9.6\005Caspectjweaver-1.9.6.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-jdbc\005C2.3.6.RELEASE\005Cspring-boot-starter-jdbc-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Czaxxer\005CHikariCP\005C3.4.5\005CHikariCP-3.4.5.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-jdbc\005C5.2.11.RELEASE\005Cspring-jdbc-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cjakarta\005Ctransaction\005Cjakarta.transaction-api\005C1.3.3\005Cjakarta.transaction-api-1.3.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cjakarta\005Cpersistence\005Cjakarta.persistence-api\005C2.2.3\005Cjakarta.persistence-api-2.2.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Chibernate\005Chibernate-core\005C5.4.23.Final\005Chibernate-core-5.4.23.Final.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cjboss\005Clogging\005Cjboss-logging\005C3.4.1.Final\005Cjboss-logging-3.4.1.Final.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cjavassist\005Cjavassist\005C3.24.0-GA\005Cjavassist-3.24.0-GA.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cnet\005Cbytebuddy\005Cbyte-buddy\005C1.10.18\005Cbyte-buddy-1.10.18.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cantlr\005Cantlr\005C2.7.7\005Cantlr-2.7.7.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cjboss\005Cjandex\005C2.1.3.Final\005Cjandex-2.1.3.Final.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cclassmate\005C1.5.1\005Cclassmate-1.5.1.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cdom4j\005Cdom4j\005C2.1.3\005Cdom4j-2.1.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Chibernate\005Ccommon\005Chibernate-commons-annotations\005C5.1.2.Final\005Chibernate-commons-annotations-5.1.2.Final.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cglassfish\005Cjaxb\005Cjaxb-runtime\005C2.3.3\005Cjaxb-runtime-2.3.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cjakarta\005Cxml\005Cbind\005Cjakarta.xml.bind-api\005C2.3.3\005Cjakarta.xml.bind-api-2.3.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cglassfish\005Cjaxb\005Ctxw2\005C2.3.3\005Ctxw2-2.3.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Csun\005Cistack\005Cistack-commons-runtime\005C3.0.11\005Cistack-commons-runtime-3.0.11.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Csun\005Cactivation\005Cjakarta.activation\005C1.2.2\005Cjakarta.activation-1.2.2.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-jpa\005C2.3.5.RELEASE\005Cspring-data-jpa-2.3.5.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-commons\005C2.3.5.RELEASE\005Cspring-data-commons-2.3.5.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-orm\005C5.2.11.RELEASE\005Cspring-orm-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-context\005C5.2.11.RELEASE\005Cspring-context-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-expression\005C5.2.11.RELEASE\005Cspring-expression-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cslf4j\005Cslf4j-api\005C1.7.30\005Cslf4j-api-1.7.30.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-aspects\005C5.2.11.RELEASE\005Cspring-aspects-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Ch2database\005Ch2\005C1.4.200\005Ch2-1.4.200.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-json\005C2.4.0\005Cspring-boot-starter-json-2.4.0.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-web\005C5.2.11.RELEASE\005Cspring-web-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-databind\005C2.11.3\005Cjackson-databind-2.11.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-annotations\005C2.11.3\005Cjackson-annotations-2.11.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-core\005C2.11.3\005Cjackson-core-2.11.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cdatatype\005Cjackson-datatype-jdk8\005C2.11.3\005Cjackson-datatype-jdk8-2.11.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cdatatype\005Cjackson-datatype-jsr310\005C2.11.3\005Cjackson-datatype-jsr310-2.11.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cmodule\005Cjackson-module-parameter-names\005C2.11.3\005Cjackson-module-parameter-names-2.11.3.jar;
+
+
+# Created at 2021-02-01T21:48:58.631
+Unexpected IOException: I,1,java.vm.vendor,Azul Systems\002C Inc.
+
+
+# Created at 2021-02-01T21:48:58.632
+Unexpected IOException: I,1,sun.arch.data.model,64
+
+
+# Created at 2021-02-01T21:48:58.632
+Unexpected IOException: I,1,user.variant,
+
+
+# Created at 2021-02-01T21:48:58.633
+Unexpected IOException: I,1,java.vendor.url,http://www.azulsystems.com/
+
+
+# Created at 2021-02-01T21:48:58.633
+Unexpected IOException: I,1,user.timezone,Europe/Paris
+
+
+# Created at 2021-02-01T21:48:58.633
+Unexpected IOException: I,1,os.name,Windows 10
+
+
+# Created at 2021-02-01T21:48:58.634
+Unexpected IOException: I,1,java.vm.specification.version,11
+
+
+# Created at 2021-02-01T21:48:58.635
+Unexpected IOException: I,1,sun.java.launcher,SUN_STANDARD
+
+
+# Created at 2021-02-01T21:48:58.635
+Unexpected IOException: I,1,user.country,US
+
+
+# Created at 2021-02-01T21:48:58.636
+Unexpected IOException: I,1,sun.boot.library.path,C:\005CProgram Files\005CZulu\005Czulu-11\005Cbin
+
+
+# Created at 2021-02-01T21:48:58.636
+Unexpected IOException: I,1,sun.java.command,C:\005CUsers\005Cjeag2\005CAppData\005CLocal\005CTemp\005Csurefire3213981643467598760\005Csurefirebooter18435739105535435568.jar C:\005CUsers\005Cjeag2\005CAppData\005CLocal\005CTemp\005Csurefire3213981643467598760 2021-02-01T21-48-56_516-jvmRun1 surefire7960943797985722673tmp surefire_11080562436688182425tmp
+
+
+# Created at 2021-02-01T21:48:58.637
+Unexpected IOException: I,1,jdk.debug,release
+
+
+# Created at 2021-02-01T21:48:58.638
+Unexpected IOException: I,1,surefire.test.class.path,D:\005Cworkspaces\005CworkEclipseEventSource\005CCrealogix\005CCrealogix-Transactions\005Ctarget\005Ctest-classes;D:\005Cworkspaces\005CworkEclipseEventSource\005CCrealogix\005CCrealogix-Transactions\005Ctarget\005Cclasses;D:\005Cworkspaces\005CworkEclipseEventSource\005CCrealogix\005CCrealogix-Infraestructure\005Ctarget\005CCrealogix-Infraestructure-0.0.1-SNAPSHOT.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter\005C2.3.6.RELEASE\005Cspring-boot-starter-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot\005C2.3.6.RELEASE\005Cspring-boot-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-autoconfigure\005C2.3.6.RELEASE\005Cspring-boot-autoconfigure-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-logging\005C2.3.6.RELEASE\005Cspring-boot-starter-logging-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cch\005Cqos\005Clogback\005Clogback-classic\005C1.2.3\005Clogback-classic-1.2.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cch\005Cqos\005Clogback\005Clogback-core\005C1.2.3\005Clogback-core-1.2.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Capache\005Clogging\005Clog4j\005Clog4j-to-slf4j\005C2.13.3\005Clog4j-to-slf4j-2.13.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Capache\005Clogging\005Clog4j\005Clog4j-api\005C2.13.3\005Clog4j-api-2.13.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cslf4j\005Cjul-to-slf4j\005C1.7.30\005Cjul-to-slf4j-1.7.30.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cjakarta\005Cannotation\005Cjakarta.annotation-api\005C1.3.5\005Cjakarta.annotation-api-1.3.5.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-core\005C5.2.11.RELEASE\005Cspring-core-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-jcl\005C5.2.11.RELEASE\005Cspring-jcl-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cyaml\005Csnakeyaml\005C1.26\005Csnakeyaml-1.26.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-tx\005C5.2.11.RELEASE\005Cspring-tx-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-beans\005C5.2.11.RELEASE\005Cspring-beans-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Capache\005Ccommons\005Ccommons-lang3\005C3.10\005Ccommons-lang3-3.10.jar;D:\005Cworkspaces\005CworkEclipseEventSource\005CCrealogix\005CCrealogix-Transaction-Data\005Ctarget\005CCrealogix-Transaction-Data-0.0.1-SNAPSHOT.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cprojectlombok\005Clombok\005C1.18.16\005Clombok-1.18.16.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cjunit\005Cjunit\005C3.8.1\005Cjunit-3.8.1.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-data-jpa\005C2.3.6.RELEASE\005Cspring-boot-starter-data-jpa-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-aop\005C2.3.6.RELEASE\005Cspring-boot-starter-aop-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-aop\005C5.2.11.RELEASE\005Cspring-aop-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Caspectj\005Caspectjweaver\005C1.9.6\005Caspectjweaver-1.9.6.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-jdbc\005C2.3.6.RELEASE\005Cspring-boot-starter-jdbc-2.3.6.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Czaxxer\005CHikariCP\005C3.4.5\005CHikariCP-3.4.5.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-jdbc\005C5.2.11.RELEASE\005Cspring-jdbc-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cjakarta\005Ctransaction\005Cjakarta.transaction-api\005C1.3.3\005Cjakarta.transaction-api-1.3.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cjakarta\005Cpersistence\005Cjakarta.persistence-api\005C2.2.3\005Cjakarta.persistence-api-2.2.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Chibernate\005Chibernate-core\005C5.4.23.Final\005Chibernate-core-5.4.23.Final.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cjboss\005Clogging\005Cjboss-logging\005C3.4.1.Final\005Cjboss-logging-3.4.1.Final.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cjavassist\005Cjavassist\005C3.24.0-GA\005Cjavassist-3.24.0-GA.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cnet\005Cbytebuddy\005Cbyte-buddy\005C1.10.18\005Cbyte-buddy-1.10.18.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cantlr\005Cantlr\005C2.7.7\005Cantlr-2.7.7.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cjboss\005Cjandex\005C2.1.3.Final\005Cjandex-2.1.3.Final.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cclassmate\005C1.5.1\005Cclassmate-1.5.1.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cdom4j\005Cdom4j\005C2.1.3\005Cdom4j-2.1.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Chibernate\005Ccommon\005Chibernate-commons-annotations\005C5.1.2.Final\005Chibernate-commons-annotations-5.1.2.Final.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cglassfish\005Cjaxb\005Cjaxb-runtime\005C2.3.3\005Cjaxb-runtime-2.3.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Cjakarta\005Cxml\005Cbind\005Cjakarta.xml.bind-api\005C2.3.3\005Cjakarta.xml.bind-api-2.3.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cglassfish\005Cjaxb\005Ctxw2\005C2.3.3\005Ctxw2-2.3.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Csun\005Cistack\005Cistack-commons-runtime\005C3.0.11\005Cistack-commons-runtime-3.0.11.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Csun\005Cactivation\005Cjakarta.activation\005C1.2.2\005Cjakarta.activation-1.2.2.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-jpa\005C2.3.5.RELEASE\005Cspring-data-jpa-2.3.5.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cdata\005Cspring-data-commons\005C2.3.5.RELEASE\005Cspring-data-commons-2.3.5.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-orm\005C5.2.11.RELEASE\005Cspring-orm-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-context\005C5.2.11.RELEASE\005Cspring-context-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-expression\005C5.2.11.RELEASE\005Cspring-expression-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cslf4j\005Cslf4j-api\005C1.7.30\005Cslf4j-api-1.7.30.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-aspects\005C5.2.11.RELEASE\005Cspring-aspects-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Ch2database\005Ch2\005C1.4.200\005Ch2-1.4.200.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cboot\005Cspring-boot-starter-json\005C2.4.0\005Cspring-boot-starter-json-2.4.0.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Corg\005Cspringframework\005Cspring-web\005C5.2.11.RELEASE\005Cspring-web-5.2.11.RELEASE.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-databind\005C2.11.3\005Cjackson-databind-2.11.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-annotations\005C2.11.3\005Cjackson-annotations-2.11.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Ccore\005Cjackson-core\005C2.11.3\005Cjackson-core-2.11.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cdatatype\005Cjackson-datatype-jdk8\005C2.11.3\005Cjackson-datatype-jdk8-2.11.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cdatatype\005Cjackson-datatype-jsr310\005C2.11.3\005Cjackson-datatype-jsr310-2.11.3.jar;C:\005CUsers\005Cjeag2\005C.m2\005Crepository\005Ccom\005Cfasterxml\005Cjackson\005Cmodule\005Cjackson-module-parameter-names\005C2.11.3\005Cjackson-module-parameter-names-2.11.3.jar;
+
+
+# Created at 2021-02-01T21:48:58.639
+Unexpected IOException: I,1,sun.cpu.endian,little
+
+
+# Created at 2021-02-01T21:48:58.639
+Unexpected IOException: I,1,user.home,C:\005CUsers\005Cjeag2
+
+
+# Created at 2021-02-01T21:48:58.640
+Unexpected IOException: I,1,user.language,en
+
+
+# Created at 2021-02-01T21:48:58.640
+Unexpected IOException: I,1,java.specification.vendor,Oracle Corporation
+
+
+# Created at 2021-02-01T21:48:58.640
+Unexpected IOException: I,1,java.version.date,2020-04-14
+
+
+# Created at 2021-02-01T21:48:58.641
+Unexpected IOException: I,1,java.home,C:\005CProgram Files\005CZulu\005Czulu-11
+
+
+# Created at 2021-02-01T21:48:58.641
+Unexpected IOException: I,1,file.separator,\005C
+
+
+# Created at 2021-02-01T21:48:58.642
+Unexpected IOException: I,1,basedir,D:\005Cworkspaces\005CworkEclipseEventSource\005CCrealogix\005CCrealogix-Transactions
+
+
+# Created at 2021-02-01T21:48:58.642
+Unexpected IOException: I,1,java.vm.compressedOopsMode,Zero based
+
+
+# Created at 2021-02-01T21:48:58.643
+Unexpected IOException: I,1,line.separator,\000D\000A
+
+
+# Created at 2021-02-01T21:48:58.643
+Unexpected IOException: I,1,java.specification.name,Java Platform API Specification
+
+
+# Created at 2021-02-01T21:48:58.643
+Unexpected IOException: I,1,java.vm.specification.vendor,Oracle Corporation
+
+
+# Created at 2021-02-01T21:48:58.644
+Unexpected IOException: I,1,jdk.vendor.version,Zulu11.39+15-CA
+
+
+# Created at 2021-02-01T21:48:58.644
+Unexpected IOException: I,1,java.awt.graphicsenv,sun.awt.Win32GraphicsEnvironment
+
+
+# Created at 2021-02-01T21:48:58.645
+Unexpected IOException: I,1,surefire.real.class.path,C:\005CUsers\005Cjeag2\005CAppData\005CLocal\005CTemp\005Csurefire3213981643467598760\005Csurefirebooter18435739105535435568.jar
+
+
+# Created at 2021-02-01T21:48:58.645
+Unexpected IOException: I,1,user.script,
+
+
+# Created at 2021-02-01T21:48:58.646
+Unexpected IOException: I,1,sun.management.compiler,HotSpot 64-Bit Tiered Compilers
+
+
+# Created at 2021-02-01T21:48:58.646
+Unexpected IOException: I,1,java.runtime.version,11.0.7+10-LTS
+
+
+# Created at 2021-02-01T21:48:58.647
+Unexpected IOException: I,1,user.name,jeag2
+
+
+# Created at 2021-02-01T21:48:58.647
+Unexpected IOException: I,1,path.separator,;
+
+
+# Created at 2021-02-01T21:48:58.647
+Unexpected IOException: I,1,os.version,10.0
+
+
+# Created at 2021-02-01T21:48:58.648
+Unexpected IOException: I,1,java.runtime.name,OpenJDK Runtime Environment
+
+
+# Created at 2021-02-01T21:48:58.648
+Unexpected IOException: I,1,file.encoding,Cp1252
+
+
+# Created at 2021-02-01T21:48:58.649
+Unexpected IOException: I,1,java.vm.name,OpenJDK 64-Bit Server VM
+
+
+# Created at 2021-02-01T21:48:58.649
+Unexpected IOException: I,1,java.vendor.version,Zulu11.39+15-CA
+
+
+# Created at 2021-02-01T21:48:58.649
+Unexpected IOException: I,1,localRepository,C:\005CUsers\005Cjeag2\005C.m2\005Crepository
+
+
+# Created at 2021-02-01T21:48:58.650
+Unexpected IOException: I,1,java.vendor.url.bug,http://www.azulsystems.com/support/
+
+
+# Created at 2021-02-01T21:48:58.650
+Unexpected IOException: I,1,java.io.tmpdir,C:\005CUsers\005Cjeag2\005CAppData\005CLocal\005CTemp\005C
+
+
+# Created at 2021-02-01T21:48:58.650
+Unexpected IOException: I,1,java.version,11.0.7
+
+
+# Created at 2021-02-01T21:48:58.651
+Unexpected IOException: I,1,user.dir,D:\005Cworkspaces\005CworkEclipseEventSource\005CCrealogix\005CCrealogix-Transactions
+
+
+# Created at 2021-02-01T21:48:58.651
+Unexpected IOException: I,1,os.arch,amd64
+
+
+# Created at 2021-02-01T21:48:58.651
+Unexpected IOException: I,1,java.vm.specification.name,Java Virtual Machine Specification
+
+
+# Created at 2021-02-01T21:48:58.651
+Unexpected IOException: I,1,java.awt.printerjob,sun.awt.windows.WPrinterJob
+
+
+# Created at 2021-02-01T21:48:58.652
+Unexpected IOException: I,1,sun.os.patch.level,
+
+
+# Created at 2021-02-01T21:48:58.652
+Unexpected IOException: I,1,java.library.path,C:\005CProgram Files\005CZulu\005Czulu-11\005Cbin;C:\005CWINDOWS\005CSun\005CJava\005Cbin;C:\005CWINDOWS\005Csystem32;C:\005CWINDOWS;C:/Program Files/Java/jdk1.8.0_212/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_212/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_212/bin/../jre/lib/amd64;C:\005CProgram Files\005CNVIDIA GPU Computing Toolkit\005CCUDA\005Cv10.1\005Cbin;C:\005CProgram Files\005CNVIDIA GPU Computing Toolkit\005CCUDA\005Cv10.1\005Clibnvvp;D:\005Cworkspaces\005Cruntimes\005Cprotoc-3.11.2-win\005Cbin;D:\005Cworkspaces\005Cruntimes\005Cprotoc-gen-grpc-web;C:\005CProgram Files\005CJava\005Cjdk1.8.0_212\005Cbin;C:\005CPython27;C:\005CPython27\005CScripts;D:\005Cworkspaces\005Cruntimes\005CGit\005Cbin;C:\005CPython36;C:\005CPython36\005CScripts;C:\005CProgram Files (x86)\005CNVIDIA Corporation\005CPhysX\005CCommon;C:\005CProgram Files\005CNVIDIA Corporation\005CNsight Compute 2019.1\005C;C:\005CProgram Files\005CNVIDIA Corporation\005CNVIDIA NvDLISR;D:\005Cworkspaces\005Cruntimes\005Ccurl-7.68.0\005Cbin;D:\005Cworkspaces\005Cruntimes\005Capache-maven-3.6.1\005Cbin;C:\005CProgram Files\005CMySQL\005CMySQL Server 5.7\005Cbin;C:\005CProgram Files\005CMongoDB\005CServer\005C4.0\005Cbin;C:\005CWindows\005CSystem32\005CWindowsPowerShell\005Cv1.0;D:\005Cworkspaces\005CworkEclipseNeo4j\005Cneo4j-db\005Cbin;D:\005Cworkspaces\005Cruntimes\005Clibgdx;D:\005Cworkspaces\005Cruntimes\005Clibgdx\005Cjar_files;C:\005CProgram Files\005CPuTTY\005C;C:\005CWINDOWS\005Csystem32;C:\005CWINDOWS;C:\005CWINDOWS\005CSystem32\005CWbem;C:\005CWINDOWS\005CSystem32\005CWindowsPowerShell\005Cv1.0\005C;C:\005CWINDOWS\005CSystem32\005COpenSSH\005C;C:\005CProgram Files\005CZulu\005Czulu-11\005Cbin\005C;C:\005CUsers\005Cjeag2\005CAppData\005CRoaming\005Cnpm\005Cnode_modules\005C@angular\005Ccli;C:\005CUsers\005Cjeag2\005CAppData\005CRoaming\005Cnpm;D:\005Cworkspaces\005Cbinaries\005Cnvm-noinstall\005Cv12.18.4;D:\005Cworkspaces\005Cbinaries\005Cnvm-noinstall;C:\005CProgram Files (x86)\005CGtkSharp\005C2.12\005Cbin;C:\005CUsers\005Cjeag2\005C.cargo\005Cbin;C:\005CUsers\005Cjeag2\005CAppData\005CLocal\005CMicrosoft\005CWindowsApps;D:\005Cworkspaces\005Cruntines\005CIntelliJ IDEA Community Edition 2019.1.3\005Cbin;;D:\005Cworkspaces\005Cruntimes\005CDocker Toolbox;D:\005Cworkspaces\005Cruntimes\005Cffmpeg\005Cbin;D:\005Cworkspaces\005Cbinaries\005Cnvm-noinstall;;C:\005CUsers\005Cjeag2\005COneDrive\005CEscritorio;;.
+
+
+# Created at 2021-02-01T21:48:58.653
+Unexpected IOException: I,1,java.vendor,Azul Systems\002C Inc.
+
+
+# Created at 2021-02-01T21:48:58.653
+Unexpected IOException: I,1,java.vm.info,mixed mode
+
+
+# Created at 2021-02-01T21:48:58.653
+Unexpected IOException: I,1,java.vm.version,11.0.7+10-LTS
+
+
+# Created at 2021-02-01T21:48:58.654
+Unexpected IOException: I,1,sun.io.unicode.encoding,UnicodeLittle
+
+
+# Created at 2021-02-01T21:48:58.654
+Unexpected IOException: I,1,java.class.version,55.0
+
+
+# Created at 2021-02-01T21:48:58.658
+Unexpected IOException: 1,1,org.apache.maven.surefire.junit.JUnit3Provider,org.crealogix.transaction.AppTest,null,null,null
+
+
+# Created at 2021-02-01T21:48:58.665
+Unexpected IOException: 5,1,org.crealogix.transaction.AppTest,testApp(org.crealogix.transaction.AppTest),null,null,null
+
+
+# Created at 2021-02-01T21:48:58.667
+Unexpected IOException: 6,1,org.crealogix.transaction.AppTest,testApp(org.crealogix.transaction.AppTest),null,null,null
+
+
+# Created at 2021-02-01T21:48:58.667
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit.JUnit3Provider,org.crealogix.transaction.AppTest,null,null,null
+
+

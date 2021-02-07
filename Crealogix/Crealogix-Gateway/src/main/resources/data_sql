@@ -1,0 +1,5 @@
+INSERT INTO ACCOUNT(id,idStr,CCC,importValue) VALUES ('5de124b5-9741-4fef-8ace-64e863e5ea77','account_1','ES50-2801-2222-22-222222222',1000.0);
+INSERT INTO CLIENT(id,idStr,version,enabled,enabledMultiAccountPay) VALUES ('5de124b5-9741-4fef-8ace-64e863e5ea78','client_1',1,true,true);
+INSERT INTO CLIENT_ACCOUNT(client_id,account_id) VALUES('5de124b5-9741-4fef-8ace-64e863e5ea78','5de124b5-9741-4fef-8ace-64e863e5ea77');
+INSERT INTO TRANSACTIONS(id,idStr,version,state,importValue) VALUES ('5de124b5-9741-4fef-8ace-64e863e5ea79','transaction_1',1,'CREATED',100.0);
+INSERT INTO TRANSACTION_ACCOUNT(transaction_id, account_id) VALUES ('5de124b5-9741-4fef-8ace-64e863e5ea79','5de124b5-9741-4fef-8ace-64e863e5ea77');

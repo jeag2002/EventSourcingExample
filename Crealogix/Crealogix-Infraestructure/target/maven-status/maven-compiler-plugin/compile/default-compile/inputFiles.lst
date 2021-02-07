@@ -1,0 +1,17 @@
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\dispatcher\CommandContext.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\repository\inmemory\InMemoryRepository.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\task\TaskScheduler.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\entities\model\AggregateRoot.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\entities\actions\Command.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\events\sync\InMemoryEventPublisher.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\entities\actions\Event.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\entities\model\Entity.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\exceptions\EventException.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\events\EventPublisher.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\dispatcher\occ\OccCommandDispatcher.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\dispatcher\sync\SynchronizedCommandDispatcher.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\exceptions\CommandException.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\events\EventConsumer.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\repository\Repository.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\dispatcher\CommandDispatcher.java
+D:\workspaces\workEclipseEventSource\Crealogix\Crealogix-Infraestructure\src\main\java\org\crealogix\infraestructure\interfaces\repository\inmemory\DummyPlatformTransactionManager.java
