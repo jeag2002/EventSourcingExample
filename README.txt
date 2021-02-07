@@ -1,5 +1,7 @@
 Event Source Arch Concept
 
+(Based on https://github.com/dav-garcia/reservas-teatro)
+
 Windows 10 x64 professional
 JDK 1.11 Zulu
 Eclipse 2019-06 (4.12.0)
